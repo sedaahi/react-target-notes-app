@@ -10,10 +10,10 @@
 
 ---
 <p align="center">
-  <img src="./screenshots/ana-ekran.png" width="220" />
-  <img src="./screenshots/liste-ekrani.png" width="220" />
-  <img src="./screenshots/hedef-ekleme.png" width="220" />
-  <img src="./screenshots/sonuc-ekrani.png" width="220" />
+  <img src="./screenshots/1.png" width="220" />
+  <img src="./screenshots/2.png" width="220" />
+  <img src="./screenshots/3.png" width="220" />
+  <img src="./screenshots/4.png" width="220" />
 </p>
 ---
 ## 🧩 Overview
