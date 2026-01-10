@@ -9,7 +9,13 @@
 </p>
 
 ---
-
+<p align="center">
+  <img src="./screenshots/ana-ekran.png" width="220" />
+  <img src="./screenshots/liste-ekrani.png" width="220" />
+  <img src="./screenshots/hedef-ekleme.png" width="220" />
+  <img src="./screenshots/sonuc-ekrani.png" width="220" />
+</p>
+---
 ## 🧩 Overview
 
 **React Target Notes App** is a lightweight web application that allows users to create,
